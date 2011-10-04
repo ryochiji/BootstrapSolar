@@ -17,4 +17,4 @@ Changes from original design:
 
 TODO:
 * Replace 4700uF cap with two 2200uF SMD capacitors in parallel
-* Replace THERM with actual thermistor, and set R4 to R5 to set temp range to -20 ~ 60C
+* Replace THERM with actual thermistor, and set R4/R5 to set temp range to -20 ~ 60C
