@@ -1,4 +1,7 @@
 USB Power Boost
+==============
+
+Status: UNTESTED, UNSUPPORTED. DO NOT USE.
 
 * Based on ADP1613 chip
 * Boosts up to 5V
