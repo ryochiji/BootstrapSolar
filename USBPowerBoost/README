@@ -1,0 +1,10 @@
+USB Power Boost
+
+* Based on ADP1613 chip
+* Boosts up to 5V
+* Output up to 2A
+* Board has two USB ports
+* One port configured to support Apple devices, output up to 1000mA
+* One port with data pins floated (standard USB spec)
+
+Designed by Philip K Lim and Ryo Chijiiwa

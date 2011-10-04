@@ -1,0 +1,14 @@
+Solar Li-Ion / LiPoly Charger
+
+Based on design by Adafruit Industries
+http://ladyada.net/products/usbdcsolarlipo/
+http://www.adafruit.com/products/390
+https://github.com/adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger
+
+Changes from original design:
+
+* Inputs via two 2.1mm DC jacks (vs one 1.3mm jack and USB)
+* Both inputs protected by diodes (vs only one)
+* Fast charge current pre-configured to 1000mA (vs 500mA)
+* JST jacks replaced with vertical insertion types 
+
