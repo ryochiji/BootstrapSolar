@@ -15,3 +15,6 @@ Changes from original design:
 * Fast charge current pre-configured to 1000mA (vs 500mA)
 * JST jacks replaced with vertical insertion types 
 
+TODO:
+* Replace 4700uF cap with two 2200uF SMD capacitors in parallel
+* Replace THERM with actual thermistor, and set R4 to R5 to set temp range to -20 ~ 60C
