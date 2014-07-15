@@ -149,8 +149,8 @@
 <text x="2.667" y="29.972" size="1.4224" layer="21" font="vector" ratio="15" rot="R90">6-20V IN</text>
 <text x="36.322" y="25.019" size="1.4224" layer="21" font="vector" ratio="15">3-4.2V</text>
 <text x="52.705" y="37.211" size="1.27" layer="21" font="vector" ratio="15" rot="R180">18650 BATTERY</text>
-<text x="30.48" y="9.398" size="1.27" layer="21" font="vector" ratio="15" rot="R90" align="center-left">!OK</text>
-<text x="34.925" y="9.398" size="1.27" layer="21" font="vector" ratio="15" rot="R90" align="center-left">!BAD</text>
+<text x="34.925" y="9.398" size="1.27" layer="21" font="vector" ratio="15" rot="R90" align="center-left">!OK</text>
+<text x="30.48" y="9.398" size="1.27" layer="21" font="vector" ratio="15" rot="R90" align="center-left">!BAD</text>
 <text x="2.54" y="6.985" size="2.54" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">+</text>
 <text x="2.54" y="12.065" size="2.54" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">-</text>
 <text x="73.025" y="10.16" size="2.54" layer="21" font="vector" ratio="15" align="bottom-center">+</text>
