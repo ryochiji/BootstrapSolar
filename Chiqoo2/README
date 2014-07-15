@@ -1,0 +1,10 @@
+Chiqoo v2 (working name)
+
+Solar charger/light. Supports 6~20V input, 5V output at up to 1.5A via USB. Two-onboard LEDs for lighting.
+
+BOM at: https://docs.google.com/spreadsheets/d/16bUJoE1ZQbacxXeRS_gSl4m6bO_L1ZmG7trxUfU6TPQ/edit?usp=sharing
+
+Based on pre-existing Open Source designs:
+SunnyBuddy - https://www.sparkfun.com/products/12084
+BootstrapSolar USB power boost - https://github.com/ryochiji/BootstrapSolar/tree/master/USBPowerBoost
+
