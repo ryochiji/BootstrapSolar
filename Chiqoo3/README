@@ -1,0 +1,5 @@
+Chiqoo v3 (working name)
+
+Status: Development (not tested)
+
+This version assumes input of 3.5 - 4.2V, and use with LiFePO4 batteries only. Uses a fuse for over-current protection, and zener diodes for over-voltage protection.
